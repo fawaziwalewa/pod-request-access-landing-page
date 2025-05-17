@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --color-green: #54E6AF;
+    --color-blue-950: #121725;
+    --color-blue-900: #2C344B;
+    --color-blue-600: #5A668A;
+    --color-blue-300: #C2CBE5;
+    --color-red: #FB3E3E;
+    --font-chivo: "Chivo", sans-serif;
+}
+
+@custom-variant hover (&:hover);
