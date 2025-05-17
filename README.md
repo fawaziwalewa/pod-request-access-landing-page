@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 * [Live Site URL](https://pod-request-access-landing-page-ruddy.vercel.app/)
-* [Solution on Frontend Mentor](https://your-solution-url.com)
+* [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/pod-request-access-landing-page---tailwindcss-S_Bx6w2CPp)
 
 ---
 
